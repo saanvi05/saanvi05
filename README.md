@@ -27,8 +27,6 @@
 
 ---
 
-<br>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=saanvi05&style=flat-square&color=blue" alt="Visitor Count" />
 </div>
