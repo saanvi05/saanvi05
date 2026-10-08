@@ -2,7 +2,7 @@
 
 # Hi there, I'm Saanvi! 👋
 
-<img src="https://github.com/user-attachments/assets/f2e5917a-b68e-402e-a9f5-61d1f28dd539" width="500" />
+<img src="https://github.com/user-attachments/assets/b78eb541-830d-483e-aa67-d2153e9ea25f" width="500" />
 
 ### Software Developer & Creator 🚀
 *Passionate about building intuitive web experiences and exploring new technologies.*
@@ -25,8 +25,7 @@
 
 ## 🎨 Vibe Check
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8af87fe1-ec83-468a-a2ba-d133747e841c" width="280" />
-  <img src="https://github.com/user-attachments/assets/03557315-3a10-4bfd-887a-e4f982e0e61d" width="280" />
+  <img src="https://github.com/user-attachments/assets/8af87fe1-ec83-468a-a2ba-d133747e841c" width="500" />
 </div>
 
 ---
